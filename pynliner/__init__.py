@@ -15,7 +15,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 """
 
-__version__ = "0.4.0"
+__version__ = "0.4.1"
 
 import urllib2
 import cssutils
